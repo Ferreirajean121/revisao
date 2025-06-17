@@ -7460,6 +7460,14 @@ textarea.form-control-lg {
   left: 50% !important;
 }
 
+.start-60 {
+  left: 60% !important;
+}
+
+.start-90 {
+  left: 90% !important;
+}
+
 .start-100 {
   left: 100% !important;
 }
